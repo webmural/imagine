@@ -5,7 +5,7 @@
 
 :root {
   background: #212;
-  color: silver;
+  color: violet;
 }
 
 :any-link {
@@ -15,6 +15,6 @@
 @media (prefers-contrast: more) {
   :root {
     background: #201;
-    color: gainsboro;
+    color: peachpuff;
   }
 }
