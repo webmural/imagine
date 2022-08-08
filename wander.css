@@ -4,7 +4,7 @@
 }
 
 :root {
-  background: silver;
+  background: violet;
   color: #212;
 }
 
@@ -14,7 +14,7 @@
 
 @media (prefers-contrast: more) {
   :root {
-    background: gainsboro;
+    background: peachpuff;
     color: #201;
   }
 }
