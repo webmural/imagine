@@ -1,8 +1,6 @@
+## [`imagine`](index.html)
 
-# [`$leep`](index.html)
+## [graf](../../generate) [imagine](https://webmural.com/imagine)
 
-# [graf](../../generate) some [sleep](https://webmural.com/sleep)
-
-1. [validate](https://validator.w3.org/#validate_by_input) [HTML](index.html)
-1. [cascade](wall.css) [CSS](https://webmural.com/css)
-1. enable [Pages](../../settings/pages)
+* [urenuf](https://webmural.com/html)
+* [cascade](https://webmural.com/css)
